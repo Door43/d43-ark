@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ark:home|Door43 (ark)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ark|d43-ark repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ark/archive/master.zip|d43-ark.zip]]
+
+**Recent Changes**
+{{changes>ns = ark}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ark|Ethnologue data]]
+
